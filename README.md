@@ -1,6 +1,5 @@
 # Leap
 
-Live build of Leap (learn anything) and hop (budgeting). Source lives in the private hoplondon repo.
+Live build of Leap, a Duolingo-style app for learning anything. Source lives in the private hoplondon repo.
 
-- Leap: https://chrisjamesseal.github.io/Leap/
-- hop: https://chrisjamesseal.github.io/Leap/hop/
+https://chrisjamesseal.github.io/Leap/
